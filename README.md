@@ -89,20 +89,7 @@ jupyter notebook STAT9013_SECOM_Analysis_FINAL.ipynb
 
 The `_FINAL` version already contains all executed cell outputs (plots, printed results). If you want to re-run from scratch, make sure `secom.data` and `secom_labels.data` are in the same directory, then run all cells in order.
 
----
 
-## Compiling the Report
-
-The LaTeX report references figures from the `figures/` folder. To compile:
-
-```bash
-pdflatex STAT9013_Report.tex
-pdflatex STAT9013_Report.tex   # Run twice to resolve references
-```
-
-Or upload `STAT9013_Report.tex` and the `figures/` folder to [Overleaf](https://www.overleaf.com) and click Compile.
-
----
 
 ## Key Results
 
